@@ -1,7 +1,8 @@
 # **TELECOMMUNICATIONS CHURN PREDICTION PROJECT**
 
----
+
 <br>
+
 ## **OVERVIEW**
 
 Within the dynamic telecommunications industry, constant evolution is imperative to meet consumer demands. Technological advancements and shifting user behaviors present ongoing challenges for telecom operators, influencing their business trajectory. To remain competitive and responsive to customer needs, diligent data analysis is paramount.
